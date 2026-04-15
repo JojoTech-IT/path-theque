@@ -6,6 +6,6 @@
 </div>
 
 ### 📂 Articles Disponibles
-- [ ] [Installation Active Directory](/windows/ad-install)
-- [ ] [Scripts PowerShell Utiles](/windows/powershell-toolbox)
-- [ ] [Gestion des GPO Sécurité](/windows/gpo-rules)
+- [ ] [Installation Active Directory](/windows/AD/installation-AD)
+- [ ] [Scripts PowerShell Utiles](/windows/scripts-powershell)
+- [ ] [Gestion des GPO Sécurité](/windows/AD/regle-gpo)
