@@ -39,6 +39,8 @@ Scan rapide (Racine)
 Bash
 
 du -sh /* 2>/dev/null | sort -h
+ou
+df -h nom_du_FS
 
 Scan ciblé (ex: logs ou backups)
 Bash
