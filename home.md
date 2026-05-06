@@ -2,7 +2,7 @@
   <img src="/var/wiki/logo-pashtèque.png" width="180" alt="Logo Pasth Tèque">
 </p>
 
-# <p align="center" style="color: #00e5ff; text-shadow: 0 0 10px #7c4dff;">🍉 BIENVENUE SUR PASTH TÈQUE</p>
+# <p align="center" style="color: #00e5ff; text-shadow: 0 0 10px #7c4dff;">🍉 BIENVENUE SUR PATH THÈQUE</p>
 
 <p align="center" style="font-size: 1.2em; color: #8b949e;">
   <i>La Connaissance Centralisée de l'Infrastructure de Jordan Ulmer</i>
@@ -36,8 +36,8 @@
     <h3 style="color: #7c4dff; margin-top: 0;">🛡️ Gestion des Incidents</h3>
     <p>Protocoles d'urgence et historiques des pannes.</p>
     <ul>
-      <li><a href="/incidents/logs" style="color: #00e5ff;">Journal des Erreurs</a></li>
-      <li><a href="/incidents/recovery" style="color: #00e5ff;">Disaster Recovery</a></li>
+      <li><a href="/apps/glpi/incidents/logs" style="color: #00e5ff;">Journal des Erreurs</a></li>
+      <li><a href="/apps/glpi/incidents/recovery" style="color: #00e5ff;">Disaster Recovery</a></li>
     </ul>
   </div>
 
@@ -59,14 +59,14 @@
 
 | Service | Lien Direct | Statut |
 | :--- | :--- | :--- |
-| **Cyber-CMDB** | [Ouvrir l'App](https://infra.jordan-ulmer.fr:26329) | <span style="color: #00ff00;">● Online</span> |
-| **GLPI** | [Ouvrir Support](https://support..jordan-ulmer.fr:26329) | <span style="color: #00ff00;">● Online</span> |
+| **Cyber-CMDB** | [Ouvrir la CMDB](https://infra.jordan-ulmer.fr:26329) | <span style="color: #00ff00;">● Online</span> |
+| **GLPI** | [Ouvrir le support](https://support..jordan-ulmer.fr:26329) | <span style="color: #00ff00;">● Online</span> |
 | **Monitoring** | [Ouvrir Grafana](https://monitor.jordan-ulmer.fr:26329) | <span style="color: #00ff00;">● Online</span> |
 | **Centreon** | [Ouvrir Centreon](https://centreon.jordan-ulmer.fr:26329) | <span style="color: #00ff00;">● Online</span> |
-| **Hub** | [Ouvrir Grafana](https://hub.jordan-ulmer.fr:26329) | <span style="color: #00ff00;">● Online</span> |
+| **Hub** | [Ouvrir l'hub centralisé](https://hub.jordan-ulmer.fr:26329) | <span style="color: #00ff00;">● Online</span> |
 
 ---
 
 <p align="center" style="color: #8b949e; font-size: 0.8em;">
-  Propulsé par Wiki.js & Docker • © 2026 Pasth Tèque Team
+  Propulsé par Wiki.js & Docker • © 2026 Path Thèque
 </p>
