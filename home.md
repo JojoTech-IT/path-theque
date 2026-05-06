@@ -59,9 +59,11 @@
 
 | Service | Lien Direct | Statut |
 | :--- | :--- | :--- |
-| **Cyber-CMDB** | [Ouvrir l'App](https://infra-preprod-jordan-ulmer.fr) | <span style="color: #00ff00;">● Online</span> |
-| **GLPI** | [Ouvrir Support](https://support.infra-preprod-jordan-ulmer.fr) | <span style="color: #00ff00;">● Online</span> |
-| **Monitoring** | [Ouvrir Grafana](https://monitor.infra-preprod-jordan-ulmer.fr) | <span style="color: #00ff00;">● Online</span> |
+| **Cyber-CMDB** | [Ouvrir l'App](https://infra.jordan-ulmer.fr:26329) | <span style="color: #00ff00;">● Online</span> |
+| **GLPI** | [Ouvrir Support](https://support..jordan-ulmer.fr:26329) | <span style="color: #00ff00;">● Online</span> |
+| **Monitoring** | [Ouvrir Grafana](https://monitor.jordan-ulmer.fr:26329) | <span style="color: #00ff00;">● Online</span> |
+| **Centreon** | [Ouvrir Centreon](https://centreon.jordan-ulmer.fr:26329) | <span style="color: #00ff00;">● Online</span> |
+| **Hub** | [Ouvrir Grafana](https://hub.jordan-ulmer.fr:26329) | <span style="color: #00ff00;">● Online</span> |
 
 ---
 
