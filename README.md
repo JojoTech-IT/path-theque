@@ -1,26 +1,18 @@
-🍉 PATH-THÈQUE - Tech Wiki
-Bienvenue dans le dépôt officiel de la PATH-THÈQUE, le hub central de documentation technique (Tech Wiki) conçu pour centraliser le savoir, les procédures et les astuces IT.
+🍉 PATH-THÈQUE — Tech Wiki
+/img/logo-path-theque.png
 
-Ce projet est propulsé par Wiki.js et déployé de manière isolée et portable via Docker.
+📖 Présentation
+Bienvenue dans le dépôt officiel de la PATH-THÈQUE, votre hub central de documentation technique. Ce projet a été conçu pour offrir un espace structuré où le savoir, les procédures et les astuces IT ne sont plus éparpillés, mais accessibles à tous l.
 
-🚀 À quoi sert ce Wiki ?
-La PATH-THÈQUE est une base de connaissances pensée pour les administrateurs systèmes, les développeurs et les passionnés de tech. Elle permet de :
+Le saviez-vous ? La PATH-THÈQUE utilise Wiki.js pour sa modernité et Docker pour sa portabilité.
 
-Centraliser les documentations techniques (configurations, schémas, guides).
+🚀 Pourquoi utiliser la PATH-THÈQUE ?
+Ce wiki n'est pas qu'un simple bloc-notes ; c'est un outil stratégique pour :
 
-Collaborer sur des procédures d'exploitation (Runbooks).
+📦 Centralisation : Fini les fichiers Word perdus. Regroupez vos configurations, schémas réseau et guides d'installation au même endroit.
 
-Rechercher rapidement des solutions à des problèmes déjà rencontrés.
+🤝 Collaboration : Améliorez vos procédures d'exploitation (Runbooks) en temps réel avec vos collègues.
 
-Historiser les changements grâce au versionnement natif.
+🔍 Rapidité : Un moteur de recherche puissant pour trouver la solution à un incident en quelques secondes.
 
-🛠️ Stack Technique
-Le projet repose sur une architecture conteneurisée pour garantir une installation rapide et une maintenance simplifiée :
-
-Moteur de Wiki : Wiki.js (Moderne, puissant et personnalisable).
-
-Base de Données : PostgreSQL (Recommandé pour Wiki.js) ou MariaDB.
-
-Déploiement : Docker & Docker Compose.
-
-Reverse Proxy : Traefik (avec support HTTPS via Let's Encrypt).
+⏳ Historisation : Grâce au versionnement natif, suivez qui a modifié quoi et revenez en arrière si nécessaire.
