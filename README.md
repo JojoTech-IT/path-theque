@@ -1,4 +1,4 @@
-🍉 PATH-THÈQUE — Tech Wiki
+<h1> 🍉 PATH-THÈQUE — Tech Wiki </h1>
 
 <img align="right" width="50%" alt="" src="https://github.com/JojoTech-IT/path-theque/blob/main/img/logo-path-theque.png" />
 
