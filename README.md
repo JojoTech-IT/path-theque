@@ -17,3 +17,5 @@ Le saviez-vous ? PATH-THÈQUE utilise Wiki.js pour sa modernité et Docker pour 
 🔍 Rapidité : Un moteur de recherche puissant pour trouver la solution à un incident en quelques secondes.
 
 ⏳ Historisation : Grâce au versionnement natif, suivez qui a modifié quoi et revenez en arrière si nécessaire.  </p>
+
+<img align="center" width="50%" alt="" src="https://img.jordan-ulmer.fr:26340/media/logo-path-theque.png" /> <br/>
