@@ -1,3 +1,13 @@
+---
+title: erreur-docker
+description: 
+published: true
+date: 2026-05-07T14:31:49.270Z
+tags: 
+editor: markdown
+dateCreated: 2026-05-07T14:31:48.194Z
+---
+
 # 🔑 Gestion des Permissions Volumes
 > Résolution des erreurs de type "Permission Denied" dans les containers.
 

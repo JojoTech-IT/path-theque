@@ -1,3 +1,13 @@
+---
+title: home
+description: 
+published: true
+date: 2026-05-06T08:51:38.492Z
+tags: 
+editor: markdown
+dateCreated: 2026-04-15T14:53:28.484Z
+---
+
 <p align="center">
   <img src="/var/wiki/logo-pashtèque.png" width="180" alt="Logo Pasth Tèque">
 </p>

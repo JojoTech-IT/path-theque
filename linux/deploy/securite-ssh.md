@@ -1,3 +1,13 @@
+---
+title: securite-ssh
+description: 
+published: true
+date: 2026-04-18T08:04:45.882Z
+tags: 
+editor: markdown
+dateCreated: 2026-04-18T08:04:44.952Z
+---
+
 ## 2. 🛡️ Sécurisation SSH (Hardening)
 *Chemin : `linux/ssh-hardening`*
 

@@ -1,3 +1,13 @@
+---
+title: supervision
+description: 
+published: true
+date: 2026-05-07T14:31:53.824Z
+tags: 
+editor: markdown
+dateCreated: 2026-05-07T14:31:52.795Z
+---
+
 # 📈 Monitoring (Grafana & Prometheus)
 > **Statut :** Supervision de l'infrastructure Pasth Tèque.
 

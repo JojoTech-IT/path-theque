@@ -1,3 +1,13 @@
+---
+title: management-disques
+description: 
+published: true
+date: 2026-04-18T08:04:50.122Z
+tags: 
+editor: markdown
+dateCreated: 2026-04-15T15:15:43.702Z
+---
+
 # 📊 Gestion des Disques & FileSystems
 > **Catégorie :** Administration Linux | **Systèmes :** Debian, Ubuntu, Proxmox
 

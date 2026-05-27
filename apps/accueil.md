@@ -1,3 +1,13 @@
+---
+title: accueil
+description: 
+published: true
+date: 2026-05-27T19:48:20.657Z
+tags: 
+editor: markdown
+dateCreated: 2026-05-27T19:48:19.531Z
+---
+
 # 🐧 Hub app
 > Administration des applications.
 

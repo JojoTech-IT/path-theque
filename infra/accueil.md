@@ -1,3 +1,13 @@
+---
+title: accueil
+description: 
+published: true
+date: 2026-05-06T08:56:40.470Z
+tags: 
+editor: markdown
+dateCreated: 2026-05-06T08:56:39.400Z
+---
+
 # 🐧 Hub infra
 > Administration de l'infra.
 

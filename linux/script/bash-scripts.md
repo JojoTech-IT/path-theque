@@ -1,3 +1,13 @@
+---
+title: bash-scripts
+description: 
+published: true
+date: 2026-04-18T08:04:47.290Z
+tags: 
+editor: markdown
+dateCreated: 2026-04-18T08:04:46.336Z
+---
+
 # 📜 Scripts d'Automatisation Bash
 > Liste des scripts maison pour la gestion de l'infrastructure.
 

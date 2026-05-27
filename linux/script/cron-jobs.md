@@ -1,3 +1,13 @@
+---
+title: cron-jobs
+description: 
+published: true
+date: 2026-04-18T08:04:48.675Z
+tags: 
+editor: markdown
+dateCreated: 2026-04-18T08:04:47.745Z
+---
+
 ### 4. ⏰ Gestion des tâches Cron
 *Chemin : `linux/cron-jobs`*
 
