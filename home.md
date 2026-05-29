@@ -50,6 +50,25 @@
       <li><a href="/apps/traefik" style="color: #7c4dff;">Règles Traefik</a></li>
     </ul>
   </div>
+  
+  <div style="border: 1px solid #00e5ff; padding: 20px; border-radius: 10px; background: rgba(0, 229, 255, 0.05); box-shadow: 0 0 15px rgba(0, 229, 255, 0.1);">
+    <h3 style="color: #7c4dff; margin-top: 0;">🛡️ Systeme Linux</h3>
+    <p>Fiches techniques détaillées pour les systemes Linux</p>
+    <ul>
+      <li><a href="/apps/glpi/incidents/logs" style="color: #00e5ff;">Journal des Erreurs</a></li>
+      <li><a href="/apps/glpi/incidents/recovery" style="color: #00e5ff;">Disaster Recovery</a></li>
+    </ul>
+  </div>
+
+  <div style="border: 1px solid #7c4dff; padding: 20px; border-radius: 10px; background: rgba(124, 77, 255, 0.05); box-shadow: 0 0 15px rgba(124, 77, 255, 0.1);">
+    <h3 style="color: #00e5ff; margin-top: 0;">📚 Systeme Windows</h3>
+    <p>Fiches techniques détaillées pour les systemes Windows.</p>
+    <ul>
+      <li><a href="/windows/AD/installation-AD" style="color: #7c4dff;">Installation d'un AD</a></li>
+      <li><a href="/windows/scripts-powershell" style="color: #7c4dff;">Scripts powershell</a></li>
+      <li><a href="/windows/AD/regle-gpo" style="color: #7c4dff;">Règles GPO</a></li>
+    </ul>
+  </div>
 
 </div>
 

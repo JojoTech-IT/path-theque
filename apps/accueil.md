@@ -1,13 +1,3 @@
----
-title: accueil
-description: 
-published: true
-date: 2026-05-27T19:48:20.657Z
-tags: 
-editor: markdown
-dateCreated: 2026-05-27T19:48:19.531Z
----
-
 # 🐧 Hub app
 > Administration des applications.
 
@@ -15,7 +5,7 @@ dateCreated: 2026-05-27T19:48:19.531Z
   <div style="border: 1px solid #00e5ff; padding: 15px; border-radius: 8px;">
     <h4 style="color: #00e5ff;">🚀 Gestion d'authelia </h4>
     <ul>
-      <li><a href="/apps/authelia/">Gestion IP</a></li>
+      <li><a href="/apps/authelia/">Gestion d'authelias</a></li>
       <li><a href="/apps/authelia/">Maps</a></li>
     </ul>
   </div>
