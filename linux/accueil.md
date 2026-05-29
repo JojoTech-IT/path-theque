@@ -1,13 +1,3 @@
----
-title: accueil
-description: 
-published: true
-date: 2026-04-18T08:04:49.135Z
-tags: 
-editor: markdown
-dateCreated: 2026-04-15T15:06:31.469Z
----
-
 # 🐧 Hub Linux
 > Administration, Scripting et Optimisation des systèmes Open Source.
 
