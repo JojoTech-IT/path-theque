@@ -1,13 +1,3 @@
----
-title: accueil
-description: 
-published: true
-date: 2026-05-06T08:56:40.470Z
-tags: 
-editor: markdown
-dateCreated: 2026-05-06T08:56:39.400Z
----
-
 # 🐧 Hub infra
 > Administration de l'infra.
 
@@ -15,8 +5,8 @@ dateCreated: 2026-05-06T08:56:39.400Z
   <div style="border: 1px solid #00e5ff; padding: 15px; border-radius: 8px;">
     <h4 style="color: #00e5ff;">🚀 Gestion du réseau </h4>
     <ul>
-      <li><a href="/infra/reseau/IP">Gestion IP</a></li>
-      <li><a href="/infra/reseau/mapping">Maps</a></li>
+      <li><a href="/network/ipam">Gestion IP</a></li>
+      <li><a href="/network/mapping">Maps</a></li>
     </ul>
   </div>
   <div style="border: 1px solid #7c4dff; padding: 15px; border-radius: 8px;">
