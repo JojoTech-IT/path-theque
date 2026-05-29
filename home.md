@@ -1,13 +1,3 @@
----
-title: home
-description: 
-published: true
-date: 2026-05-06T08:51:38.492Z
-tags: 
-editor: markdown
-dateCreated: 2026-04-15T14:53:28.484Z
----
-
 <p align="center">
   <img src="/var/wiki/logo-pashtèque.png" width="180" alt="Logo Pasth Tèque">
 </p>
@@ -26,7 +16,7 @@ dateCreated: 2026-04-15T14:53:28.484Z
     <h3 style="color: #00e5ff; margin-top: 0;">🌐 Vue d'ensemble Infra</h3>
     <p>Cartographie complète des services et topologie réseau.</p>
     <ul>
-      <li><a href="/infra/mapping" style="color: #7c4dff;">Carte du Réseau</a></li>
+      <li><a href="/network/mapping" style="color: #7c4dff;">Carte du Réseau</a></li>
       <li><a href="/infra/proxmox" style="color: #7c4dff;">Nodes Proxmox</a></li>
       <li><a href="/infra/vms" style="color: #7c4dff;">Inventaire des VMs</a></li>
     </ul>
