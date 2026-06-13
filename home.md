@@ -79,7 +79,7 @@
 | Service | Lien Direct | Statut |
 | :--- | :--- | :--- |
 | **Cyber-CMDB** | [Ouvrir la CMDB](https://infra-preprod.jordan-ulmer.fr:26340) | <span style="color: #00ff00;">● Online</span> |
-| **GLPI** | [Ouvrir le support](https://support..jordan-ulmer.fr:26329) | <span style="color: #00ff00;">● Online</span> |
+| **GLPI** | [Ouvrir le support](https://support.jordan-ulmer.fr:26329) | <span style="color: #00ff00;">● Online</span> |
 | **Monitoring** | [Ouvrir Grafana](https://monitor.jordan-ulmer.fr:26329) | <span style="color: #00ff00;">● Online</span> |
 | **Centreon** | [Ouvrir Centreon](https://centreon.jordan-ulmer.fr:26329) | <span style="color: #00ff00;">● Online</span> |
 | **Hub** | [Ouvrir l'hub centralisé](https://hub.jordan-ulmer.fr:26329) | <span style="color: #00ff00;">● Online</span> |
