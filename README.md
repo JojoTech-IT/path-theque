@@ -7,12 +7,12 @@
 
 Le saviez-vous ? PATH-THÈQUE utilise Wiki.js pour sa modernité et Docker pour sa portabilité. </p>
 
-<h2> 🚀 Pourquoi utiliser la PATH-THÈQUE ? </h2>
+<h2> 🚀 Pourquoi utiliser le wiki PATH-THÈQUE ? </h2>
 <p> Ce wiki n'est pas qu'un simple bloc-notes ; c'est un outil stratégique pour :
 
-📦 Centralisation : Fini les fichiers Word perdus. Regroupez vos configurations, schémas réseau et guides d'installation au même endroit.
+📦 Centralisation : Centraliser l'information au même endroit.
 
-🤝 Collaboration : Améliorez vos procédures d'exploitation (Runbooks) en temps réel avec vos collègues.
+🤝 Collaboration : Améliorez nos procédures d'exploitation en temps réel avec vos collègues.
 
 🔍 Rapidité : Un moteur de recherche puissant pour trouver la solution à un incident en quelques secondes.
 
