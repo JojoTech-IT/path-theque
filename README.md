@@ -1,13 +1,3 @@
----
-title: README
-description: 
-published: true
-date: 2026-05-13T19:56:15.383Z
-tags: 
-editor: markdown
-dateCreated: 2026-04-15T14:53:27.026Z
----
-
 <h1> 🍉 PATH-THÈQUE — Tech Wiki </h1>
 
 <img align="center" width="50%" alt="" src="https://github.com/JojoTech-IT/path-theque/blob/main/img/logo-path-theque.png" /> <br/>
